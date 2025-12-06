@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Mod/-->
+	<DataObject Name="WallsOfNature" Type="Mod" Id="13408212852267236403" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">13408212856903238215</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="13408212856903238215" OwnerId="13408212852267236403">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="4222252213"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1546213260"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="3960991344"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1173514779"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="2"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">13408212855621408323</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="13408212855621408323" OwnerId="13408212852267236403">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="4222252213"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1546213260"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="3960991344"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1173514779"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+
